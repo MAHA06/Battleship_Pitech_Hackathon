@@ -20,7 +20,6 @@ class Square(pygame.sprite.Sprite):
 		self.image.fill((255, 0, 0))
 		self.rect = self.image.get_rect()
 		self.rect.x = posx
-		dsafsf
 		self.rect.y = posy
 		self.velx = 0
 		self.vely = 0
